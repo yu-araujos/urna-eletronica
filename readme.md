@@ -2,7 +2,7 @@ Olá! Esse projeto foi desenvolvido como pessoal para aprimorar meus estudos em 
 
 Nele construí uma urna eletrônica, como o foco era na programação, não foquei tanto em no design e no HTML. Enfim, espero que goste :)
 
-Para acessar a urna: urnaeletronicajs.netlify.app
+Para acessar a urna: <a href:urnaeletronicajs.netlify.app>URNA ELETRÔNICA<a/>
 
 Para testar os candidatos os códigos são:
 Vereador: 77222 ou 38111 //
