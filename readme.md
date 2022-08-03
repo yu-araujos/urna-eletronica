@@ -4,7 +4,7 @@ Nele construí uma urna eletrônica, como o foco era na programação, não foqu
 
 Para acessar a urna: <a href="https://urnaeletronicajs.netlify.app" target="_blank">URNA ELETRÔNICA<a/>
 
-Para testar os candidatos os códigos são:
+Para testar os candidatos, os códigos da urna são:
 Vereador: 77222 ou 38111 //
 Prefeito: 84 ou 99 //
 Digitando qualquer outro número, seu voto será nulo. 
